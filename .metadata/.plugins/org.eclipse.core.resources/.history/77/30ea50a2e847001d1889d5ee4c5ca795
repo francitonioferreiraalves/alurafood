@@ -1,0 +1,17 @@
+package br.com.alurafood.pagamentos.model;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
+
+@Entity
+@Table(name = "pagamentos")
+@Getter
+@Setter
+@AllArgsConstructor
+public class Pagamento {
+
+}

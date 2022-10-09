@@ -1,0 +1,14 @@
+package br.com.alurafood.pagamentos.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import br.com.alurafood.pagamentos.repository.PagamentoRepository;
+
+@Service
+public class PagamentoService {
+
+	@Autowired
+	private PagamentoRepository repository;
+
+}
