@@ -7,7 +7,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 @Getter
-@Setter
+@Setter	
 public class PagamentoDto {
 
 	private Long id;
