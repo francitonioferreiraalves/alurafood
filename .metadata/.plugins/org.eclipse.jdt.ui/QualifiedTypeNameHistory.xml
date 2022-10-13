@@ -3,4 +3,5 @@
     <fullyQualifiedTypeName name="org.springframework.data.domain.Pageable"/>
     <fullyQualifiedTypeName name="br.com.alurafood.pagamentos.model.Status"/>
     <fullyQualifiedTypeName name="br.com.alurafood.pedidos.model.Status"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
 </qualifiedTypeNameHistroy>
