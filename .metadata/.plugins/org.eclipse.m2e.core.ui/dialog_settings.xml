@@ -6,6 +6,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/tito/eclipse-workspace/alurafood"/>
 			<item value="/home/linux/eclipse-workspace/alurafood/gateway"/>
 			<item value="/home/linux/eclipse-workspace/alurafood/pedidos"/>
 		</list>
